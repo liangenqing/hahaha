@@ -7,5 +7,7 @@ public interface TestDemo {
 	
 	//添加了一个hello方法
 	void hello();
-
+	
+	//添加了delete方法
+	void delete();
 }
